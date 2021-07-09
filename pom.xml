@@ -30,6 +30,7 @@
     <maven>2.2.1</maven>
   </prerequisites>
 
+
   <modules>
     <module>accumulo-handler</module>
     <module>ant</module>
